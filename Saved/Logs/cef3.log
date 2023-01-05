@@ -4,3 +4,5 @@
 [0105/083914.367:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0105/083914.367:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0105/093802.854:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 1 time(s)
+[0105/170026.951:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0105/170033.362:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
