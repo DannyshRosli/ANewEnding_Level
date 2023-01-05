@@ -1,0 +1,5 @@
+2023/01/05-08:39:14.939 44a8 Reusing MANIFEST E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/05-08:50:27.087 257c Level-0 table #5: started
+2023/01/05-08:50:27.164 257c Level-0 table #5: 9899 bytes OK
+2023/01/05-08:50:27.209 257c Delete type=0 #3
+2023/01/05-08:50:27.210 257c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
