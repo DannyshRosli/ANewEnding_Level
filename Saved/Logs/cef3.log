@@ -6,3 +6,13 @@
 [0105/093802.854:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 1 time(s)
 [0105/170026.951:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
 [0105/170033.362:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0106/111413.679:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0106/111637.185:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 55
+[0106/111637.826:ERROR:device_event_log_impl.cc(208)] [11:16:37.826] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[0106/111726.780:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0106/111726.780:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0106/111727.260:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0106/111727.260:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0106/111728.213:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from E:/GamePrototype(A New Ending)/UE5/UE5GitLatest/ANewEnding_Level/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: E:/GamePrototype(A New Ending)/UE5/UE5GitLatest/ANewEnding_Level/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0106/111728.834:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from E:/GamePrototype(A New Ending)/UE5/UE5GitLatest/ANewEnding_Level/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: E:/GamePrototype(A New Ending)/UE5/UE5GitLatest/ANewEnding_Level/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0106/173742.616:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
