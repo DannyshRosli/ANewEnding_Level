@@ -32,3 +32,8 @@
 [0107/002404.581:WARNING:storage_block-inl.h(146)] Failed data load.
 [0107/002404.582:WARNING:storage_block-inl.h(146)] Failed data load.
 [0107/002404.606:WARNING:storage_block-inl.h(146)] Failed data load.
+[0107/132903.787:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 55
+[0107/132958.561:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0107/132958.561:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0107/132959.721:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0107/132959.721:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
