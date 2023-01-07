@@ -1,3 +1,6 @@
-2023/01/07-11:56:56.462 3c0 Reusing MANIFEST E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
-2023/01/07-11:56:56.482 3c0 Recovering log #3
-2023/01/07-11:56:56.482 3c0 Reusing old log E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/webcache_4147\Local Storage\leveldb/000003.log 
+2023/01/07-22:16:35.236 3d9c Reusing MANIFEST E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
+2023/01/07-22:16:35.236 3d9c Recovering log #3
+2023/01/07-22:16:35.298 3d9c Reusing old log E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/webcache_4147\Local Storage\leveldb/000003.log 
+2023/01/07-22:23:25.764 3ef8 Level-0 table #5: started
+2023/01/07-22:23:25.830 3ef8 Level-0 table #5: 12629 bytes OK
+2023/01/07-22:23:25.884 3ef8 Delete type=0 #3
