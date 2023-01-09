@@ -1,0 +1,1020 @@
+﻿Log file open, 01/09/23 21:43:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=15056)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ANewEnding_Level
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "E:\TYRA\PUSAKA\GAME A NEW ENDING\UE5\LGitHub_ANewEnding\ANewEnding_Level\ANewEnding_Level.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2364] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="f87fba954fef4950f4d736a30f25e6d0"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 11.707801
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-38B6AF064DDC8B4AFB62628CEED91A26
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.06 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2364] (), CPU: 11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz, GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/EPICG/UE_5.0/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.09-13.43.40:669][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.09-13.43.40:670][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.09-13.43.40:670][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.09-13.43.40:670][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.09-13.43.40:695][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.09-13.43.40:695][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.09-13.43.40:695][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.09-13.43.40:696][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.09-13.43.40:770][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.09-13.43.40:770][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.09-13.43.40:770][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.09-13.43.40:770][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.09-13.43.40:770][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.09-13.43.40:770][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.09-13.43.40:770][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.09-13.43.40:770][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.09-13.43.40:783][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.09-13.43.40:783][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.09-13.43.40:783][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.09-13.43.41:027][  0]LogD3D12RHI: Aftermath initialized
+[2023.01.09-13.43.41:027][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.01.09-13.43.41:372][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.01.09-13.43.41:372][  0]LogD3D12RHI: Adapter has 12142MB of dedicated video memory, 0MB of dedicated system memory, and 8126MB of shared system memory, 2 output[s]
+[2023.01.09-13.43.41:399][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.01.09-13.43.41:399][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8126MB of shared system memory, 0 output[s]
+[2023.01.09-13.43.41:409][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.01.09-13.43.41:410][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.09-13.43.41:418][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.09-13.43.41:434][  0]LogHAL: Display: Platform has ~ 16 GB [17042104320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.09-13.43.41:442][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.09-13.43.41:442][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.09-13.43.41:442][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.09-13.43.41:453][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.09-13.43.41:453][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.09-13.43.41:474][  0]LogInit: Computer: DESKTOP-I286J2N
+[2023.01.09-13.43.41:474][  0]LogInit: User: USER
+[2023.01.09-13.43.41:474][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.01.09-13.43.41:474][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.09-13.43.41:492][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.01.09-13.43.41:492][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.09-13.43.41:492][  0]LogMemory: Process Physical Memory: 280.87 MB used, 290.29 MB peak
+[2023.01.09-13.43.41:492][  0]LogMemory: Process Virtual Memory: 245.74 MB used, 245.74 MB peak
+[2023.01.09-13.43.41:492][  0]LogMemory: Physical Memory: 7601.61 MB used,  8651.00 MB free, 16252.62 MB total
+[2023.01.09-13.43.41:492][  0]LogMemory: Virtual Memory: 10670.95 MB used,  14285.67 MB free, 24956.62 MB total
+[2023.01.09-13.43.41:492][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.09-13.43.41:514][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.09-13.43.41:839][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.09-13.43.41:882][  0]LogInit: Using OS detected language (en-US).
+[2023.01.09-13.43.41:882][  0]LogInit: Using OS detected locale (en-MY).
+[2023.01.09-13.43.41:990][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.01.09-13.43.42:405][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.09-13.43.42:633][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.09-13.43.42:633][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.01.09-13.43.42:633][  0]LogWindowsTextInputMethodSystem:   - English (Malaysia) - (Keyboard).
+[2023.01.09-13.43.42:633][  0]LogWindowsTextInputMethodSystem:   - English (Malaysia) - Touch Input Correction (TSF IME).
+[2023.01.09-13.43.42:633][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.01.09-13.43.43:355][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.09-13.43.43:355][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.09-13.43.44:364][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.01.09-13.43.44:386][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.01.09-13.43.44:386][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.01.09-13.43.44:474][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.01.09-13.43.44:625][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.01.09-13.43.44:630][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.01.09-13.43.44:645][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.01.09-13.43.44:753][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.01.09-13.43.44:753][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.01.09-13.43.45:077][  0]LogD3D12RHI:     GPU DeviceId: 0x2504 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.09-13.43.45:077][  0]LogWindows: Attached monitors:
+[2023.01.09-13.43.45:077][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.01.09-13.43.45:077][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 0) -> (3840, 1080), device: '\\.\DISPLAY2'
+[2023.01.09-13.43.45:077][  0]LogWindows: Found 2 attached monitors.
+[2023.01.09-13.43.45:077][  0]LogWindows: EnumDisplayDevices:
+[2023.01.09-13.43.45:077][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.01.09-13.43.45:077][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.01.09-13.43.45:078][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.01.09-13.43.45:078][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.01.09-13.43.45:078][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.01.09-13.43.45:078][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2023.01.09-13.43.45:078][  0]LogD3D12RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.01.09-13.43.45:078][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2023.01.09-13.43.45:078][  0]LogRHI: Texture pool is 7165 MB (70% of 10236 MB)
+[2023.01.09-13.43.45:078][  0]LogD3D12RHI: Async texture creation enabled
+[2023.01.09-13.43.45:078][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.01.09-13.43.45:977][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.01.09-13.43.46:069][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/ANewEnding_Level.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/TurnkeyReport_0.log" -log="E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/TurnkeyLog_0.log" -project="E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/ANewEnding_Level.uproject"  -platform=all'
+[2023.01.09-13.43.46:080][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/EPICG/UE_5.0/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/ANewEnding_Level.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/TurnkeyReport_0.log" -log="E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/TurnkeyLog_0.log" -project="E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/ANewEnding_Level.uproject"  -platform=all" ]
+[2023.01.09-13.43.46:416][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2023.01.09-13.43.46:416][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.09-13.43.46:615][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.01.09-13.43.46:615][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.09-13.43.46:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.09-13.43.46:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.09-13.43.46:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.09-13.43.46:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.09-13.43.46:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.09-13.43.46:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.09-13.43.46:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.09-13.43.46:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.09-13.43.46:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.09-13.43.46:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.09-13.43.46:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.09-13.43.46:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.09-13.43.46:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.09-13.43.46:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.09-13.43.46:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.09-13.43.46:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.09-13.43.46:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.09-13.43.46:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.09-13.43.46:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.09-13.43.46:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.09-13.43.46:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.09-13.43.46:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.09-13.43.46:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.09-13.43.46:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.09-13.43.46:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.09-13.43.46:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.09-13.43.46:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.09-13.43.46:919][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.09-13.43.47:286][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.09-13.43.47:301][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.09-13.43.47:301][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.09-13.43.47:301][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.09-13.43.47:301][  0]LogTargetPlatformManager:   PCM
+[2023.01.09-13.43.47:315][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.09-13.43.47:315][  0]LogTargetPlatformManager:   BINKA
+[2023.01.09-13.43.47:315][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.09-13.43.47:315][  0]LogTargetPlatformManager:   OGG
+[2023.01.09-13.43.47:315][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.09-13.43.47:315][  0]LogTargetPlatformManager:   OPUS
+[2023.01.09-13.43.47:972][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.09-13.43.48:009][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.09-13.43.48:028][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.09-13.43.48:028][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.09-13.43.48:028][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.09-13.43.48:028][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.09-13.43.48:028][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.09-13.43.48:028][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.09-13.43.48:028][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.09-13.43.48:032][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.09-13.43.48:235][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.09-13.43.48:261][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.09-13.43.48:261][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.09-13.43.48:262][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.09-13.43.48:308][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.09-13.43.48:309][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.09-13.43.48:309][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.09-13.43.48:309][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.09-13.43.48:449][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.09-13.43.48:477][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.09-13.43.48:477][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.09-13.43.48:488][  0]LogDerivedDataCache: Speed tests for C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.09-13.43.48:488][  0]LogDerivedDataCache: Display: Performance to C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.11ms. RandomReadSpeed=208.53MBs, RandomWriteSpeed=194.85MBs. Assigned SpeedClass 'Local'
+[2023.01.09-13.43.48:534][  0]LogDerivedDataCache: Using Local data cache path C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.09-13.43.48:534][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.09-13.43.48:534][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.09-13.43.48:543][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.09-13.43.48:543][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.09-13.43.48:644][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/Shaders/WorkingDirectory/8864/).
+[2023.01.09-13.43.48:644][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/USER/AppData/Local/Temp/UnrealShaderWorkingDir/E9131A1247A95F6945635F86FE896013/'.
+[2023.01.09-13.43.48:656][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.09-13.43.48:656][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.01.09-13.43.51:920][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.09-13.43.52:010][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.09-13.43.52:908][  0]LogAssetRegistry: FAssetRegistry took 0.0334 seconds to start up
+[2023.01.09-13.43.53:029][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.09-13.44.09:181][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.09-13.44.09:243][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.09-13.44.11:116][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.09-13.44.11:117][  0]LogDeviceProfileManager: Active device profile: [00000406D1B15940][00000406C7010000 50] WindowsEditor
+[2023.01.09-13.44.11:117][  0]LogDeviceProfileManager: Profiles: [00000406D1B15400][00000406C701A000 50] Windows, [00000406D1B15940][00000406C7010000 50] WindowsEditor, [00000406D1B13800][00000406C7015000 50] WindowsServer, [00000406D1B12BC0][00000406C7012800 50] WindowsClient, [00000406D1B14440][00000406C4EFA000 50] IOS, [00000406D1B12840][00000406C77AC800 50] iPadAir2, [00000406D1B16580][00000406D1D20000 50] IPadPro, [00000406D1B16900][00000406D1D22800 50] iPadAir3, [00000406D1B14600][00000406D1D27800 50] iPadAir4, [00000406D1B11DC0][00000406D1D2A000 50] iPadMini4, [00000406D1B11F80][00000406D1D2C800 50] iPadMini5, [00000406D1B11A40][00000406ACF25000 50] iPadMini6, [00000406D1B19680][00000406D1D32800 50] iPhone6S, [00000406D1B19A00][00000406D1D30000 50] iPhone7, [00000406D1B16E40][00000406D1D35000 50] iPodTouch7, [00000406D1B17380][00000406D1D3A000 50] iPhone6SPlus, [00000406D1B15780][00000406D1D3C800 50] iPhone7Plus, [00000406D1B15240][00000406D1D25000 50] iPhoneSE, [00000406D1B17700][00000406D1D37800 50] iPhone8, [00000406D1B139C0][00000406D1D10000 50] iPhone8Plus, [00000406D1B16AC0][00000406D1D15000 50] iPhoneX, [00000406D1B17E00][00000406D1D17800 50] iPhoneXS, [00000406D1B140C0][00000406D1D1A000 50] iPhoneXSMax, [00000406D1B15080][00000406D1D1C800 50] iPhoneXR, [00000406D1B19840][00000406C7017800 50] iPhone11, [00000406D1B13100][00000406D1D60000 50] iPhone11Pro, [00000406D1B17000][00000406D1D65000 50] iPhone11ProMax, [00000406D1B16200][00000406D1D67800 50] iPhoneSE2, [00000406D1B17FC0][00000406D1D6A000 50] iPhone12Mini, [00000406D1B14D00][00000406D1D6C800 50] iPhone12, [00000406D1B186C0][00000406D1D12800 50] iPhone12Pro, [00000406D1B12300][00000406D1D80000 50] iPhone12ProMax, [00000406D1B18A40][00000406D1D85000 50] iPhone13Mini, [00000406D1B11180][00000406D1D87800 50] iPhone13, [00000406D1B15B00][00000406D1D8A000 50] iPhone13Pro, [00000406D1B12140][00000406D1D8C800 50] iPhone13ProMax, [00000406D1B18DC0][00000406D1D62800 50] iPadPro105, [00000406D1B14980][00000406D1D90000 50] iPadPro129, [00000406D1B178C0][00000406D1D95000 50] iPadPro97, [00000406D1B13B80][00000406D1D97800 50] iPadPro2_129, [00000406D1B163C0][00000406D1D9A000 50] iPad5, [00000406D1B12680][00000406D1D9C800 50] iPad6, [00000406D1B14B40][00000406D1D82800 50] iPad7, [00000406D1B19BC0][00000406D1DA0000 50] iPad8, [00000406D1B13D40][00000406D1DA5000 50] iPad9, [00000406D1B19140][00000406D1DA7800 50] iPadPro11, [00000406D1B11880][00000406D1DAA000 50] iPadPro2_11, [00000406D1B171C0][00000406D1DAC800 50] iPadPro3_11, [00000406D1B18880][00000406D1D92800 50] iPadPro3_129, [00000406D1B17540][00000406D1DB0000 50] iPadPro4_129, [00000406D1B12A00][00000406D1DB5000 50] iPadPro5_129, [00000406D1B11340][00000406D1DB7800 50] AppleTV, [00000406D1B16740][00000406D1DBA000 50] AppleTV4K, [00000406D1B15E80][00000406D1DBC800 50] TVOS, [00000406D1B1B440][00000406D1DD0000 50] Mac, [00000406D1B1B7C0][00000406D1DD2800 50] MacEditor, [00000406D1B18C00][00000406D1DD7800 50] MacClient, [00000406D1B12F40][00000406D1DDA000 50] MacServer, [00000406D1B1BB40][00000406D1DA2800 50] Linux, [00000406D1B1BEC0][00000406D1DB2800 50] LinuxEditor, [00000406D1B116C0][00000406D1DDC800 50] LinuxArm64Editor, [00000406D1B16040][00000406D1CF0000 50] LinuxArm64, [00000406D1B13480][00000406D1CF5000 50] LinuxClient, [00000406D1B1C080][00000406D1CF7800 50] LinuxArm64Client, [00000406D1B11C00][00000406D1CFA000 50] LinuxServer, [00000406D1B1A9C0][00000406D1CFC800 50] LinuxArm64Server, [00000406D1B1B280][00000406D1DD5000 50] Android, [00000406D1B1B0C0][00000406D1DE0000 50] Android_Preview_OpenGL, [00000406D1B1A480][00000406D1DE5000 50] Android_Preview_Vulkan, [00000406D1B132C0][00000406D1DE7800 50] Android_Low, [00000406D1B1B980][00000406D1DEA000 50] Android_Mid, [00000406D1B13F00][00000406D1DEC800 50] Android_High, [00000406D1B1AD40][00000406D1CF2800 50] Android_Default, [00000406D1B1CB00][00000406D1DF0000 50] Android_Adreno4xx, [00000406D1B124C0][00000406D1DF5000 50] Android_Adreno5xx_Low, [00000406D1B194C0][00000406D1DF7800 50] Android_Adreno5xx, [00000406D1B147C0][00000406D1DFA000 50] Android_Adreno6xx, [00000406D1B17A80][00000406D1DFC800 50] Android_Adreno6xx_Vulkan, [00000406D1B1C400][00000406D1DE2800 50] Android_Adreno7xx, [00000406D1B18500][00000406D1E00000 50] Android_Adreno7xx_Vulkan, [00000406D1B1A2C0][00000406D1E05000 50] Android_Mali_T6xx, [00000406D1B1A100][00000406D1E07800 50] Android_Mali_T7xx, [00000406D1B11500][00000406D1E0A000 50] Android_Mali_T8xx, [00000406D1B18340][00000406D1E0C800 50] Android_Mali_G71, [00000406D1B12D80][00000406D1DF2800 50] Android_Mali_G72, [00000406D1B15CC0][00000406D1E10000 50] Android_Mali_G72_Vulkan, [00000406D1B19D80][00000406D1E15000 50] Android_Mali_G76, [00000406D1B1C780][00000406D1E17800 50] Android_Mali_G76_Vulkan, [00000406D1B19F40][00000406D1E1A000 50] Android_Mali_G77, [00000406D1B1C5C0][00000406D1E1C800 50] Android_Mali_G77_Vulkan, [00000406D1B1B600][00000406D1E02800 50] Android_Mali_G78, [00000406D1B14EC0][00000406D1E20000 50] Android_Mali_G78_Vulkan, [00000406D1B1D200][00000406D1E25000 50] Android_Mali_G710, [00000406D1B1D3C0][00000406D1E27800 50] Android_Mali_G710_Vulkan, [00000406D1B1D580][00000406D1E2A000 50] Android_Xclipse_920, [00000406D1B1AF00][00000406D1E2C800 50] Android_Xclipse_920_Vulkan, [00000406D1B1AB80][00000406D1E12800 50] Android_Vulkan_SM5, [00000406D1B18180][00000406D1E30000 50] Android_PowerVR_G6xxx, [00000406D1B1E000][00000406D1E35000 50] Android_PowerVR_GT7xxx, [00000406D1B1DE40][00000406D1E37800 50] Android_PowerVR_GE8xxx, [00000406D1B1C940][00000406D1E3A000 50] Android_PowerVR_GM9xxx, [00000406D1B16C80][00000406D1E3C800 50] Android_PowerVR_GM9xxx_Vulkan, [00000406D1B19300][00000406D1E22800 50] Android_TegraK1, [00000406D1B1E1C0][00000406D1E40000 50] Android_Unknown_Vulkan, [00000406D1B1D900][00000406D1E45000 50] Oculus_Quest, [00000406D1B1EA80][00000406D1E47800 50] Oculus_Quest2, [00000406D1B1E700][00000406D1E4A000 50] HoloLens, 
+[2023.01.09-13.44.11:117][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.09-13.44.30:050][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.09-13.45.04:140][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.09-13.45.04:140][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.09-13.45.04:140][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.09-13.45.04:140][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.09-13.45.04:347][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.09-13.45.10:360][  0]LogNetVersion: ANewEnding_Level 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1292812776)
+[2023.01.09-13.45.24:887][  0]LogSlate: Border
+[2023.01.09-13.45.24:887][  0]LogSlate: BreadcrumbButton
+[2023.01.09-13.45.24:887][  0]LogSlate: Default
+[2023.01.09-13.45.24:887][  0]LogSlate: Icons.Save
+[2023.01.09-13.45.24:887][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.09-13.45.24:887][  0]LogSlate: ListView
+[2023.01.09-13.45.24:887][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.09-13.45.24:887][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.09-13.45.24:887][  0]LogSlate: TableView.DarkRow
+[2023.01.09-13.45.24:887][  0]LogSlate: TableView.Row
+[2023.01.09-13.45.24:887][  0]LogSlate: TreeView
+[2023.01.09-13.45.32:861][  0]SourceControl: Source control is disabled
+[2023.01.09-13.45.33:647][  0]SourceControl: Source control is disabled
+[2023.01.09-13.45.33:647][  0]SourceControl: Source control is disabled
+[2023.01.09-13.45.34:726][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.09-13.45.34:732][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.01.09-13.45.34:733][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.09-13.45.38:518][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 46A8FCF941A4970E06D7FEA6DC15CDEF | Instance: 415337094C42C572A6BFC7BB3895A15A (DESKTOP-I286J2N-8864).
+[2023.01.09-13.45.41:366][  0]LogPython: Using Python 3.9.7
+[2023.01.09-13.45.44:319][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.09-13.45.44:321][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.09-13.45.49:273][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.09-13.45.50:985][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.50:985][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.01.09-13.45.50:985][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.50:985][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.01.09-13.45.50:985][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.50:985][  0]LogWindows: Warning: URL: C:\Users\USER\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.01.09-13.45.50:985][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.50:985][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.01.09-13.45.50:985][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.50:985][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.01.09-13.45.50:985][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.50:985][  0]LogWindows: Warning: URL: C:\Users\USER\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.01.09-13.45.50:985][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.50:985][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.01.09-13.45.50:987][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.50:987][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.01.09-13.45.50:987][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.50:987][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.01.09-13.45.50:987][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.50:987][  0]LogWindows: Warning: URL: C:\Users\USER\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.01.09-13.45.50:988][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.50:988][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.01.09-13.45.50:988][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.50:988][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.01.09-13.45.50:988][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.50:988][  0]LogWindows: Warning: URL: C:\Users\USER\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.01.09-13.45.50:988][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.50:988][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.01.09-13.45.50:989][  0]LogUProjectInfo: Found projects:
+[2023.01.09-13.45.50:990][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.09-13.45.50:991][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.09-13.45.50:991][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.09-13.45.51:082][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.51:082][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.01.09-13.45.51:082][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.51:082][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.01.09-13.45.51:082][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.51:082][  0]LogWindows: Warning: URL: C:\Users\USER\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.01.09-13.45.51:082][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.51:082][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.01.09-13.45.51:082][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.51:082][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.01.09-13.45.51:082][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.51:082][  0]LogWindows: Warning: URL: C:\Users\USER\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.01.09-13.45.51:083][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.45.51:083][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.01.09-13.45.51:617][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.09-13.45.51:675][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.09-13.45.51:675][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.09-13.45.53:225][  0]LogCollectionManager: Loaded 0 collections in 0.000614 seconds
+[2023.01.09-13.45.53:349][  0]LogFileCache: Scanning file cache for directory 'E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/Collections/' took 0.00s
+[2023.01.09-13.45.53:349][  0]LogFileCache: Scanning file cache for directory 'E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Developers/USER/Collections/' took 0.00s
+[2023.01.09-13.45.53:349][  0]LogFileCache: Scanning file cache for directory 'E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Collections/' took 0.00s
+[2023.01.09-13.45.56:837][  0]LogDerivedDataCache: C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.296 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.09-13.45.56:837][  0]LogAutomationTest: Warning: Smoke tests took >2s to run (2.28s). 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' took 1977ms. SmokeFilter tier tests should take less than 1ms. Please optimize or move 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' to a slower tier than SmokeFilter.
+[2023.01.09-13.45.57:140][  0]LogEngine: Initializing Engine...
+[2023.01.09-13.45.57:535][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.09-13.45.57:578][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.008 s
+[2023.01.09-13.45.58:948][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.09-13.45.59:398][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.09-13.45.59:801][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.09-13.46.00:409][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.09-13.46.00:757][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.09-13.46.00:971][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.09-13.46.00:986][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.09-13.46.00:986][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.09-13.46.01:045][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.09-13.46.01:045][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.09-13.46.01:070][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.09-13.46.01:070][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.09-13.46.01:071][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.09-13.46.01:071][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.09-13.46.01:071][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.09-13.46.01:071][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.09-13.46.01:071][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.09-13.46.01:132][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.09-13.46.01:135][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.09-13.46.01:135][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.09-13.46.01:136][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.09-13.46.01:251][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.09-13.46.01:337][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (22- High Definition Audio Device)
+[2023.01.09-13.46.01:383][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.09-13.46.01:385][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.09-13.46.01:385][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.09-13.46.01:411][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.09-13.46.01:412][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.09-13.46.01:413][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.09-13.46.01:413][  0]LogInit: FAudioDevice initialized.
+[2023.01.09-13.46.01:485][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.09-13.46.01:485][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.01.09-13.46.01:485][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.09-13.46.01:536][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.09-13.46.01:550][  0]LogInit: Texture streaming: Enabled
+[2023.01.09-13.46.01:784][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.09-13.46.01:840][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.09-13.46.02:042][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.09-13.46.02:060][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.09-13.46.02:060][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.09-13.46.34:286][  0]LogLiveCoding: Display: First instance in process group "UE_ANewEnding_Level_0x394143ee", spawning console
+[2023.01.09-13.46.34:286][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.09-13.46.34:286][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.09-13.46.34:314][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/Config/WindowsEditor/Editor.ini', retrying in .5s...
+[2023.01.09-13.46.34:816][  0]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.01.09-13.46.34:831][  0]LogInit: Transaction tracking system initialized
+[2023.01.09-13.46.35:187][  0]BlueprintLog: New page: Editor Load
+[2023.01.09-13.46.36:494][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/LocalizationServiceSettings39C126754D8C8E3AAAADBAAF2CD289B4.tmp' to '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.01.09-13.46.36:995][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/LocalizationServiceSettings39C126754D8C8E3AAAADBAAF2CD289B4.tmp' to '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.01.09-13.46.37:496][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/LocalizationServiceSettings39C126754D8C8E3AAAADBAAF2CD289B4.tmp' to '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.01.09-13.46.37:997][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/LocalizationServiceSettings39C126754D8C8E3AAAADBAAF2CD289B4.tmp' to '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.01.09-13.46.38:497][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/LocalizationServiceSettings39C126754D8C8E3AAAADBAAF2CD289B4.tmp' to '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.01.09-13.46.38:999][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/LocalizationServiceSettings39C126754D8C8E3AAAADBAAF2CD289B4.tmp' to '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.01.09-13.46.39:499][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/LocalizationServiceSettings39C126754D8C8E3AAAADBAAF2CD289B4.tmp' to '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.01.09-13.46.40:000][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/LocalizationServiceSettings39C126754D8C8E3AAAADBAAF2CD289B4.tmp' to '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.01.09-13.46.40:501][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/LocalizationServiceSettings39C126754D8C8E3AAAADBAAF2CD289B4.tmp' to '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.01.09-13.46.41:002][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/LocalizationServiceSettings39C126754D8C8E3AAAADBAAF2CD289B4.tmp' to '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini' (Error Code 183), retrying in .5s...
+[2023.01.09-13.46.41:517][  0]LogFileManager: Error: Error moving file '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/LocalizationServiceSettings39C126754D8C8E3AAAADBAAF2CD289B4.tmp' to '../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini'.
+[2023.01.09-13.46.41:517][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini]
+[2023.01.09-13.46.41:518][  0]LocalizationService: Localization service is disabled
+[2023.01.09-13.46.41:554][  0]TimingProfiler: Initialize
+[2023.01.09-13.46.41:554][  0]TimingProfiler: OnSessionChanged
+[2023.01.09-13.46.41:554][  0]LoadingProfiler: Initialize
+[2023.01.09-13.46.41:554][  0]LoadingProfiler: OnSessionChanged
+[2023.01.09-13.46.41:554][  0]NetworkingProfiler: Initialize
+[2023.01.09-13.46.41:554][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.09-13.46.41:554][  0]MemoryProfiler: Initialize
+[2023.01.09-13.46.41:554][  0]MemoryProfiler: OnSessionChanged
+[2023.01.09-13.46.41:679][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.09-13.46.41:679][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.09-13.46.41:680][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.09-13.46.42:454][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.09-13.46.42:639][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.09-13.46.44:070][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.46.44:070][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.01.09-13.46.44:070][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.46.44:070][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.01.09-13.46.44:070][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.46.44:070][  0]LogWindows: Warning: URL: C:\Users\USER\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.01.09-13.46.44:070][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.46.44:070][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.01.09-13.46.44:070][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.46.44:070][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.01.09-13.46.44:070][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.46.44:070][  0]LogWindows: Warning: URL: C:\Users\USER\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.01.09-13.46.44:070][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.01.09-13.46.44:070][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.01.09-13.46.44:086][  0]LogUnrealEdMisc: Loading editor; pre map load, took 241.680
+[2023.01.09-13.46.44:191][  0]Cmd: MAP LOAD FILE="../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.09-13.46.44:193][  0]LightingResults: New page: Lighting Build
+[2023.01.09-13.46.44:566][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.09-13.46.44:873][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-13.46.45:085][  0]MapCheck: New page: Map Check
+[2023.01.09-13.46.45:085][  0]LightingResults: New page: Lighting Build
+[2023.01.09-13.46.46:126][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.09-13.46.46:883][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.01.09-13.46.48:369][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.01.09-13.46.48:426][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.09-13.46.48:427][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.01.09-13.46.48:668][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.09-13.46.48:670][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.01.09-13.46.49:006][  0]LogWorldPartition: Display: WorldPartition initialize took 337 ms
+[2023.01.09-13.46.50:260][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.09-13.46.50:531][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.01.09-13.46.50:573][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.09-13.46.50:663][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.803ms to complete.
+[2023.01.09-13.46.50:677][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 6.552
+[2023.01.09-13.46.52:989][  0]LogUnrealEdMisc: Total Editor Startup Time, took 250.579
+[2023.01.09-13.46.53:001][  0]LogShaderCompilers: Display: ================================================
+[2023.01.09-13.46.53:001][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.09-13.46.53:001][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.09-13.46.53:009][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.09-13.46.53:009][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.09-13.46.53:009][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.09-13.46.53:009][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.09-13.46.53:009][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.09-13.46.53:010][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.09-13.46.53:011][  0]LogShaderCompilers: Display: ================================================
+[2023.01.09-13.46.53:699][  0]LogFileManager: Warning: DeleteFile was unable to delete 'E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2023.01.09-13.46.54:202][  0]LogFileManager: Warning: DeleteFile recovered during retry!
+[2023.01.09-13.46.54:205][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.09-13.46.54:205][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.09-13.46.54:205][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.09-13.46.54:205][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.09-13.46.54:205][  0]LogSlate: The tab "VerticalModeToolbar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.09-13.46.54:205][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.09-13.46.54:206][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.09-13.46.54:206][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.09-13.46.54:206][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.09-13.46.54:206][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.09-13.46.54:206][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.09-13.46.54:206][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.01.09-13.46.54:226][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-13.46.54:263][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-13.46.54:285][  0]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'InvertedForeground'.'
+[2023.01.09-13.46.54:294][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-13.46.54:298][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.09-13.46.55:164][  0]LogPakFile: Display: Mounted Pak file 'E:/EPICG/UE_5.0/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.09-13.46.55:164][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-13.46.55:190][  0]LogPakFile: Display: Mounted Pak file 'E:/EPICG/UE_5.0/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.09-13.46.55:190][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-13.46.55:202][  0]LogPakFile: Display: Mounted Pak file 'E:/EPICG/UE_5.0/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.09-13.46.55:202][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-13.46.55:299][  0]LogPakFile: Display: Mounted Pak file 'E:/EPICG/UE_5.0/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.09-13.46.55:299][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-13.46.55:318][  0]LogPakFile: Display: Mounted Pak file 'E:/EPICG/UE_5.0/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.09-13.46.55:318][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-13.46.55:337][  0]LogPakFile: Display: Mounted Pak file 'E:/EPICG/UE_5.0/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.09-13.46.55:337][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-13.46.55:345][  0]LogPakFile: Display: Mounted Pak file 'E:/EPICG/UE_5.0/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.09-13.46.55:345][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-13.46.55:360][  0]LogPakFile: Display: Mounted Pak file 'E:/EPICG/UE_5.0/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.09-13.46.55:360][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-13.46.55:374][  0]LogPakFile: Display: Mounted Pak file 'E:/EPICG/UE_5.0/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.09-13.46.55:374][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-13.46.55:391][  0]LogPakFile: Display: Mounted Pak file 'E:/EPICG/UE_5.0/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.09-13.46.55:391][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.09-13.46.55:393][  0]LogFeaturePack: Error: Error in Feature pack E:/EPICG/UE_5.0/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.09-13.46.58:145][  0]LogSlate: Took 0.023362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.09-13.46.58:172][  0]LogSlate: Took 0.012067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.09-13.46.58:463][  0]LogSlate: Took 0.010657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.09-13.46.58:502][  0]LogSlate: Took 0.010779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.09-13.46.58:561][  0]LogSlate: Took 0.058162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.09-13.46.58:938][  0]LogSlate: Took 0.011436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.09-13.46.59:360][  0]LogStall: Startup...
+[2023.01.09-13.46.59:361][  0]LogStall: Startup complete.
+[2023.01.09-13.46.59:762][  0]LogLoad: (Engine Initialization) Total time: 257.33 seconds
+[2023.01.09-13.46.59:762][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.09-13.47.00:241][  0]LogAssetRegistry: Asset discovery search completed in 187.3436 seconds
+[2023.01.09-13.47.00:535][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000984 seconds (updated 0 objects)
+[2023.01.09-13.47.01:154][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.09-13.47.01:754][  0]LogViewport: Scene viewport resized to 1181x511, mode Windowed.
+[2023.01.09-13.54.57:149][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.01.09-13.55.07:051][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave CloseThunder_1...
+[2023.01.09-13.55.07:053][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_1.CloseThunder_1 will be modified from 40 to 40.
+[2023.01.09-13.55.07:158][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Sky/Cloud_Wisps.Cloud_Wisps (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.07:158][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Sky/AtmosphericScattering_LUT.AtmosphericScattering_LUT (RGBA16F, 64X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.07:158][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1145796 while cooking SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_1.CloseThunder_1.
+[2023.01.09-13.55.07:187][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Icons/Sun_Icon.Sun_Icon (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.07:187][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Icons/Moon_Icon.Moon_Icon (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.07:187][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Icons/UDS_Icon.UDS_Icon (BGRA8, 256X128 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.07:187][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_1.CloseThunder_1: 262144
+[2023.01.09-13.55.07:191][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave CloseThunder_2...
+[2023.01.09-13.55.07:193][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_2.CloseThunder_2 will be modified from 40 to 40.
+[2023.01.09-13.55.07:230][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 791428 while cooking SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_2.CloseThunder_2.
+[2023.01.09-13.55.07:230][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_2.CloseThunder_2: 262144
+[2023.01.09-13.55.07:231][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave CloseThunder_3...
+[2023.01.09-13.55.07:232][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_3.CloseThunder_3 will be modified from 40 to 40.
+[2023.01.09-13.55.07:297][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1336760 while cooking SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_3.CloseThunder_3.
+[2023.01.09-13.55.07:297][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_3.CloseThunder_3: 262144
+[2023.01.09-13.55.07:298][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave CloseThunder_4...
+[2023.01.09-13.55.07:300][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_4.CloseThunder_4 will be modified from 40 to 40.
+[2023.01.09-13.55.07:346][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1145796 while cooking SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_4.CloseThunder_4.
+[2023.01.09-13.55.07:346][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_4.CloseThunder_4: 262144
+[2023.01.09-13.55.07:347][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave CloseThunder_5...
+[2023.01.09-13.55.07:347][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_5.CloseThunder_5 will be modified from 40 to 40.
+[2023.01.09-13.55.07:379][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 725756 while cooking SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_5.CloseThunder_5.
+[2023.01.09-13.55.07:380][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_5.CloseThunder_5: 262144
+[2023.01.09-13.55.07:381][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave CloseThunder_6...
+[2023.01.09-13.55.07:382][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_6.CloseThunder_6 will be modified from 40 to 40.
+[2023.01.09-13.55.07:440][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1479984 while cooking SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_6.CloseThunder_6.
+[2023.01.09-13.55.07:441][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Close_Thunder/CloseThunder_6.CloseThunder_6: 262144
+[2023.01.09-13.55.09:755][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Icons/UDW_Icon.UDW_Icon (BGRA8, 256X128 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/Mask_Brushes/Brush_Circle.Brush_Circle (TFO_BC4, 128X128 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Icons/WeatherMaskBrush_Icon.WeatherMaskBrush_Icon (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/Mask_Brushes/Brush_Falloff.Brush_Falloff (TFO_BC4, 128X128 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/Mask_Brushes/Brush_Radial.Brush_Radial (TFO_BC4, 128X128 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/Mask_Brushes/Brush_Square.Brush_Square (TFO_BC4, 128X128 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/Mask_Brushes/Brush_Pyramid.Brush_Pyramid (TFO_BC4, 256X256 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/Edge_Fade.Edge_Fade (G8, 64X64 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/3D_Clouds/3D_Cells_64.3D_Cells_64 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/ParticleClouds.ParticleClouds (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/Lightning_Bolt.Lightning_Bolt (TFO_AutoDXT, 128X32 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/3D_Clouds/3D_Cells_32.3D_Cells_32 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/3D_Clouds/3D_Cells_32_Sheet.3D_Cells_32_Sheet (BGRA8, 1024X32 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/Lightning_Branches.Lightning_Branches (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/3D_Clouds/3DCells_64_Sheet.3DCells_64_Sheet (BGRA8, 4096X64 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/Lightning_Flare_Sheet.Lightning_Flare_Sheet (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Clouds/clouds_diverse.clouds_diverse (BGRA8, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/DLWE_NormalBrush.DLWE_NormalBrush (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/Splash_Animation.Splash_Animation (TFO_DXT1, 512X256 X1X1) (Required Memory Estimate: 2.500 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Sky/Caustic_Pattern.Caustic_Pattern (BGRA8, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Sky/Stars_Noise.Stars_Noise (TFO_BC4, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/3D_Clouds/3DCells_128_Sheet.3DCells_128_Sheet (BGRA8, 16384X128 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/3D_Clouds/3DCells_128.3DCells_128 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Weather/RainSnow_Sheet.RainSnow_Sheet (BGRA8, 64X128 X1X1) (Required Memory Estimate: 0.15625 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.09:756][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave RainHit_1...
+[2023.01.09-13.55.09:756][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Rain/RainHit_1.RainHit_1 will be modified from 15 to 15.
+[2023.01.09-13.55.09:756][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 3892 while cooking SoundWave /Game/UltraDynamicSky/Sound/Rain/RainHit_1.RainHit_1.
+[2023.01.09-13.55.09:757][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Rain/RainHit_1.RainHit_1: 262144
+[2023.01.09-13.55.09:757][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave RainHit_2...
+[2023.01.09-13.55.09:757][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Rain/RainHit_2.RainHit_2 will be modified from 15 to 15.
+[2023.01.09-13.55.09:758][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 4944 while cooking SoundWave /Game/UltraDynamicSky/Sound/Rain/RainHit_2.RainHit_2.
+[2023.01.09-13.55.09:758][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Rain/RainHit_2.RainHit_2: 262144
+[2023.01.09-13.55.09:758][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave RainHit_3...
+[2023.01.09-13.55.09:758][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Rain/RainHit_3.RainHit_3 will be modified from 15 to 15.
+[2023.01.09-13.55.09:759][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5494 while cooking SoundWave /Game/UltraDynamicSky/Sound/Rain/RainHit_3.RainHit_3.
+[2023.01.09-13.55.09:759][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Rain/RainHit_3.RainHit_3: 262144
+[2023.01.09-13.55.10:826][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave DistantThunder_1...
+[2023.01.09-13.55.10:827][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_1.DistantThunder_1 will be modified from 30 to 30.
+[2023.01.09-13.55.10:892][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1719900 while cooking SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_1.DistantThunder_1.
+[2023.01.09-13.55.10:893][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_1.DistantThunder_1: 262144
+[2023.01.09-13.55.10:895][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave DistantThunder_10...
+[2023.01.09-13.55.10:898][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_10.DistantThunder_10 will be modified from 30 to 30.
+[2023.01.09-13.55.10:958][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1675800 while cooking SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_10.DistantThunder_10.
+[2023.01.09-13.55.10:958][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_10.DistantThunder_10: 262144
+[2023.01.09-13.55.10:959][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave DistantThunder_11...
+[2023.01.09-13.55.10:960][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_11.DistantThunder_11 will be modified from 30 to 30.
+[2023.01.09-13.55.11:028][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1940400 while cooking SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_11.DistantThunder_11.
+[2023.01.09-13.55.11:028][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_11.DistantThunder_11: 262144
+[2023.01.09-13.55.11:029][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave DistantThunder_2...
+[2023.01.09-13.55.11:030][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_2.DistantThunder_2 will be modified from 30 to 30.
+[2023.01.09-13.55.11:068][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1058400 while cooking SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_2.DistantThunder_2.
+[2023.01.09-13.55.11:068][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_2.DistantThunder_2: 262144
+[2023.01.09-13.55.11:069][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave DistantThunder_3...
+[2023.01.09-13.55.11:070][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_3.DistantThunder_3 will be modified from 30 to 30.
+[2023.01.09-13.55.11:133][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1764000 while cooking SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_3.DistantThunder_3.
+[2023.01.09-13.55.11:134][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_3.DistantThunder_3: 262144
+[2023.01.09-13.55.11:134][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave DistantThunder_4...
+[2023.01.09-13.55.11:136][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_4.DistantThunder_4 will be modified from 30 to 30.
+[2023.01.09-13.55.11:219][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2381400 while cooking SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_4.DistantThunder_4.
+[2023.01.09-13.55.11:219][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_4.DistantThunder_4: 262144
+[2023.01.09-13.55.11:220][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave DistantThunder_5...
+[2023.01.09-13.55.11:222][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_5.DistantThunder_5 will be modified from 30 to 30.
+[2023.01.09-13.55.11:328][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2998800 while cooking SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_5.DistantThunder_5.
+[2023.01.09-13.55.11:328][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_5.DistantThunder_5: 262144
+[2023.01.09-13.55.11:329][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave DistantThunder_6...
+[2023.01.09-13.55.11:331][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_6.DistantThunder_6 will be modified from 30 to 30.
+[2023.01.09-13.55.11:420][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2469600 while cooking SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_6.DistantThunder_6.
+[2023.01.09-13.55.11:420][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_6.DistantThunder_6: 262144
+[2023.01.09-13.55.11:421][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave DistantThunder_7...
+[2023.01.09-13.55.11:423][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_7.DistantThunder_7 will be modified from 30 to 30.
+[2023.01.09-13.55.11:524][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2734200 while cooking SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_7.DistantThunder_7.
+[2023.01.09-13.55.11:524][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_7.DistantThunder_7: 262144
+[2023.01.09-13.55.11:525][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave DistantThunder_8...
+[2023.01.09-13.55.11:526][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_8.DistantThunder_8 will be modified from 30 to 30.
+[2023.01.09-13.55.11:609][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2205000 while cooking SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_8.DistantThunder_8.
+[2023.01.09-13.55.11:609][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_8.DistantThunder_8: 262144
+[2023.01.09-13.55.11:610][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave DistantThunder_9...
+[2023.01.09-13.55.11:611][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_9.DistantThunder_9 will be modified from 30 to 30.
+[2023.01.09-13.55.11:692][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2116800 while cooking SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_9.DistantThunder_9.
+[2023.01.09-13.55.11:693][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Distant_Thunder/DistantThunder_9.DistantThunder_9: 262144
+[2023.01.09-13.55.11:694][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave LightRain_1...
+[2023.01.09-13.55.11:696][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_1.LightRain_1 will be modified from 50 to 50.
+[2023.01.09-13.55.11:762][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1411200 while cooking SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_1.LightRain_1.
+[2023.01.09-13.55.11:762][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_1.LightRain_1: 262144
+[2023.01.09-13.55.11:763][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave LightRain_2...
+[2023.01.09-13.55.11:764][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_2.LightRain_2 will be modified from 50 to 50.
+[2023.01.09-13.55.11:833][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1411200 while cooking SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_2.LightRain_2.
+[2023.01.09-13.55.11:833][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_2.LightRain_2: 262144
+[2023.01.09-13.55.11:837][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave LightRain_3...
+[2023.01.09-13.55.11:838][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_3.LightRain_3 will be modified from 50 to 50.
+[2023.01.09-13.55.11:905][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1411200 while cooking SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_3.LightRain_3.
+[2023.01.09-13.55.11:905][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_3.LightRain_3: 262144
+[2023.01.09-13.55.11:907][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave LightRain_4...
+[2023.01.09-13.55.11:907][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_4.LightRain_4 will be modified from 50 to 50.
+[2023.01.09-13.55.11:975][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1411200 while cooking SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_4.LightRain_4.
+[2023.01.09-13.55.11:975][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Rain/LightRain_4.LightRain_4: 262144
+[2023.01.09-13.55.11:976][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave MediumRain_1...
+[2023.01.09-13.55.11:977][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_1.MediumRain_1 will be modified from 40 to 40.
+[2023.01.09-13.55.12:046][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1411200 while cooking SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_1.MediumRain_1.
+[2023.01.09-13.55.12:047][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_1.MediumRain_1: 262144
+[2023.01.09-13.55.12:048][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave MediumRain_2...
+[2023.01.09-13.55.12:049][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_2.MediumRain_2 will be modified from 40 to 40.
+[2023.01.09-13.55.12:116][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1411200 while cooking SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_2.MediumRain_2.
+[2023.01.09-13.55.12:117][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_2.MediumRain_2: 262144
+[2023.01.09-13.55.12:118][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave MediumRain_3...
+[2023.01.09-13.55.12:119][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_3.MediumRain_3 will be modified from 40 to 40.
+[2023.01.09-13.55.12:187][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1411200 while cooking SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_3.MediumRain_3.
+[2023.01.09-13.55.12:187][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_3.MediumRain_3: 262144
+[2023.01.09-13.55.12:188][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave MediumRain_4...
+[2023.01.09-13.55.12:188][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_4.MediumRain_4 will be modified from 40 to 40.
+[2023.01.09-13.55.12:256][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1411200 while cooking SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_4.MediumRain_4.
+[2023.01.09-13.55.12:256][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Rain/MediumRain_4.MediumRain_4: 262144
+[2023.01.09-13.55.12:257][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave BrownianNoise_1...
+[2023.01.09-13.55.12:257][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_1.BrownianNoise_1 will be modified from 25 to 25.
+[2023.01.09-13.55.12:282][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 529200 while cooking SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_1.BrownianNoise_1.
+[2023.01.09-13.55.12:282][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_1.BrownianNoise_1: 262144
+[2023.01.09-13.55.12:283][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave BrownianNoise_2...
+[2023.01.09-13.55.12:283][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_2.BrownianNoise_2 will be modified from 25 to 25.
+[2023.01.09-13.55.12:306][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 529200 while cooking SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_2.BrownianNoise_2.
+[2023.01.09-13.55.12:306][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_2.BrownianNoise_2: 262144
+[2023.01.09-13.55.12:307][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave BrownianNoise_3...
+[2023.01.09-13.55.12:307][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_3.BrownianNoise_3 will be modified from 25 to 25.
+[2023.01.09-13.55.12:330][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 529200 while cooking SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_3.BrownianNoise_3.
+[2023.01.09-13.55.12:331][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_3.BrownianNoise_3: 262144
+[2023.01.09-13.55.12:332][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave BrownianNoise_4...
+[2023.01.09-13.55.12:332][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_4.BrownianNoise_4 will be modified from 25 to 25.
+[2023.01.09-13.55.12:356][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 529200 while cooking SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_4.BrownianNoise_4.
+[2023.01.09-13.55.12:356][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Wind/BrownianNoise_4.BrownianNoise_4: 262144
+[2023.01.09-13.55.12:357][157]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Wind_Whistling...
+[2023.01.09-13.55.12:358][157]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/UltraDynamicSky/Sound/Wind/Wind_Whistling.Wind_Whistling will be modified from 40 to 40.
+[2023.01.09-13.55.12:490][157]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2858332 while cooking SoundWave /Game/UltraDynamicSky/Sound/Wind/Wind_Whistling.Wind_Whistling.
+[2023.01.09-13.55.12:490][157]LogAudio: Display: Chunk size for SoundWave /Game/UltraDynamicSky/Sound/Wind/Wind_Whistling.Wind_Whistling: 262144
+[2023.01.09-13.55.13:390][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Sky/Moon_Masks.Moon_Masks (BGRA8, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.13:390][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/Sky/Tiling_Stars.Tiling_Stars (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.13:390][157]LogMaterial: Display: Missing cached shadermap for Space_Planet_Glow_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 066598C8BD8BE03B9C633178E83EB4EF3562B357), compiling. 
+[2023.01.09-13.55.13:813][157]LogStaticMesh: Display: Building static mesh Space_Glow_Circle...
+[2023.01.09-13.55.13:813][157]LogStaticMesh: Display: Building static mesh StaticCloudsSphere...
+[2023.01.09-13.55.13:813][157]LogStaticMesh: Display: Building static mesh Ultra_Dynamic_Sky_Sphere...
+[2023.01.09-13.55.13:813][157]LogStaticMesh: Display: Building static mesh Space_Planet...
+[2023.01.09-13.55.13:813][157]LogStaticMesh: Display: Building static mesh Compass...
+[2023.01.09-13.55.13:813][157]LogStaticMesh: Display: Building static mesh Rainbow...
+[2023.01.09-13.55.13:813][157]LogStaticMesh: Display: Building static mesh 2D_Turbulence_Disk...
+[2023.01.09-13.55.13:813][157]LogMaterial: Display: Missing cached shadermap for DefaultTextMaterialTranslucent in PCD3D_SM5, Default, SM5 (DDC key hash: 276B30B24571045B9B9602A3D6608D466F42539F), compiling. 
+[2023.01.09-13.55.13:848][157]LogMaterial: Display: Missing cached shadermap for Weather_Mask_ProjectionBox_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 26F3FA932A8D82B84C82ED8F8C13D4A90E0F5286), compiling. 
+[2023.01.09-13.55.13:856][157]LogMaterial: Display: Missing cached shadermap for Snow_Fade_Target_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 76F028653F2CCE84E2ABBE10F863049A1E63FEE2), compiling. 
+[2023.01.09-13.55.13:868][157]LogMaterial: Display: Missing cached shadermap for Wind_Debris in PCD3D_SM5, Default, SM5 (DDC key hash: FE86738CB950F179441A44C63CA15B1275C0EB67), compiling. 
+[2023.01.09-13.55.13:914][157]LogMaterial: Display: Missing cached shadermap for WOV_Target_Brush in PCD3D_SM5, Default, SM5 (DDC key hash: 4DB87AD874EB17FF1A91395D38B4BF599DF2B41E), compiling. 
+[2023.01.09-13.55.13:926][157]LogMaterial: Display: Missing cached shadermap for DLWE_Brush in PCD3D_SM5, Default, SM5 (DDC key hash: 5D15A161C1F214F86E74783B5BE7746CD4DF8A59), compiling. 
+[2023.01.09-13.55.13:939][157]LogMaterial: Display: Missing cached shadermap for Compression_EdgeFade in PCD3D_SM5, Default, SM5 (DDC key hash: FC3688F075593A9C9B75A1CA3148DECE1165042D), compiling. 
+[2023.01.09-13.55.13:951][157]LogMaterial: Display: Missing cached shadermap for MaskTarget_EdgeFade in PCD3D_SM5, Default, SM5 (DDC key hash: 2AE41F69FAD1E9424A157C04F403645E321CECD4), compiling. 
+[2023.01.09-13.55.13:966][157]LogMaterial: Display: Missing cached shadermap for Lightning_Ball_ParticleMat in PCD3D_SM5, Default, SM5 (DDC key hash: F2F46697A3A2D82FF160E36757F6186844B17FFC), compiling. 
+[2023.01.09-13.55.14:026][157]LogMaterial: Display: Missing cached shadermap for Lightning_Light_Rays_Card in PCD3D_SM5, Default, SM5 (DDC key hash: AF822686BD37B3F7CC811529EE500752AD74D198), compiling. 
+[2023.01.09-13.55.14:264][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/3D_Clouds/3D_Cells_32.3D_Cells_32 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.14:268][157]LogMaterial: Display: Missing cached shadermap for LightningBolt_ParticleMat in PCD3D_SM5, Default, SM5 (DDC key hash: 2CE8581BB2653A90D04CCF74CEC2076F13BE1043), compiling. 
+[2023.01.09-13.55.14:303][157]LogMaterial: Display: Missing cached shadermap for LightningFlare_ParticleMat in PCD3D_SM5, Default, SM5 (DDC key hash: 0EDCF73AF3CF071E2A751CA0C513397AD903AC0F), compiling. 
+[2023.01.09-13.55.14:328][157]LogMaterial: Display: Missing cached shadermap for LightningBranch_ParticleMat in PCD3D_SM5, Default, SM5 (DDC key hash: F7D7DF13963515581A8597234AECA341F571721B), compiling. 
+[2023.01.09-13.55.16:801][157]LogStaticMesh: Built static mesh [0.79s] /Game/UltraDynamicSky/Meshes/Space_Glow_Circle.Space_Glow_Circle
+[2023.01.09-13.55.16:801][157]LogStaticMesh: Built static mesh [0.79s] /Game/UltraDynamicSky/Meshes/Ultra_Dynamic_Sky_Sphere.Ultra_Dynamic_Sky_Sphere
+[2023.01.09-13.55.16:801][157]LogStaticMesh: Built static mesh [0.79s] /Game/UltraDynamicSky/Meshes/StaticCloudsSphere.StaticCloudsSphere
+[2023.01.09-13.55.16:801][157]LogStaticMesh: Built static mesh [0.79s] /Game/UltraDynamicSky/Meshes/2D_Turbulence_Disk.2D_Turbulence_Disk
+[2023.01.09-13.55.16:801][157]LogStaticMesh: Built static mesh [0.79s] /Game/UltraDynamicSky/Meshes/Compass.Compass
+[2023.01.09-13.55.16:801][157]LogStaticMesh: Built static mesh [0.79s] /Game/UltraDynamicSky/Meshes/Space_Planet.Space_Planet
+[2023.01.09-13.55.16:801][157]LogStaticMesh: Built static mesh [0.79s] /Game/UltraDynamicSky/Meshes/Rainbow.Rainbow
+[2023.01.09-13.55.16:801][157]LogMaterial: Display: Missing cached shadermap for Overcast_Turbulence in PCD3D_SM5, Default, SM5 (DDC key hash: 056712C5773B6B666D4C1362AD7D3D2D57CD51B2), compiling. 
+[2023.01.09-13.55.16:846][157]LogMaterial: Display: Missing cached shadermap for Volumetric_Cloud_Shadows in PCD3D_SM5, Default, SM5 (DDC key hash: B494E3EBBB966278988756D500D4B7B53F218E5B), compiling. 
+[2023.01.09-13.55.16:928][157]LogMaterial: Display: Missing cached shadermap for Splash_ParticleMat in PCD3D_SM5, Default, SM5 (DDC key hash: BEA67E57CB1D4C0448C3EABCEBA80EA009FE9C23), compiling. 
+[2023.01.09-13.55.17:222][157]LogMaterial: Display: Missing cached shadermap for Ultra_Dynamic_Sky_Mat in PCD3D_SM5, High, SM5 (DDC key hash: E17AD6DFEC918DFF8F72265159FEF22E9FE982EC), compiling. 
+[2023.01.09-13.55.17:303][157]LogMaterial: Display: Missing cached shadermap for UDS_FFTFF in PCD3D_SM5, High, SM5 (DDC key hash: C355D948A3B69441970C8B59A2F87625CC3C1461), compiling. 
+[2023.01.09-13.55.17:382][157]LogMaterial: Display: Missing cached shadermap for Volumetric_Clouds in PCD3D_SM5, Default, SM5 (DDC key hash: 03B2451DB7F959A2C232B1F35C32EEE7B8B1FF2A), compiling. 
+[2023.01.09-13.55.17:706][157]LogTexture: Display: Building textures: /Game/UltraDynamicSky/Textures/3D_Clouds/3DCells_128.3DCells_128 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.01.09-13.55.18:131][157]LogMaterial: Display: Missing cached shadermap for Volumetric_Clouds_default in PCD3D_SM5, Default, SM5 (DDC key hash: 2EDC774648E0B25D9AA584716FD932D00310018D), compiling. 
+[2023.01.09-13.55.18:229][157]LogMaterial: Display: Missing cached shadermap for Volumetric_Clouds_default_S in PCD3D_SM5, Default, SM5 (DDC key hash: 9312C97F24E436FB4E5E33F67C72A1EDC74A638B), compiling. 
+[2023.01.09-13.55.18:322][157]LogMaterial: Display: Missing cached shadermap for Lightning_Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 9A90762EA542968B355566F9A2F7F7552A5EC0AB), compiling. 
+[2023.01.09-13.55.18:547][157]LogMaterial: Display: Missing cached shadermap for Fog_ParticleMat in PCD3D_SM5, Default, SM5 (DDC key hash: 21C4C049349D64E4FDD70E7768B13629CA43F257), compiling. 
+[2023.01.09-13.55.18:803][157]LogMaterial: Display: Missing cached shadermap for Rain_ParticleMat in PCD3D_SM5, Default, SM5 (DDC key hash: E253B7B1AA008DE1FA7B96466829935DB6C44D1E), compiling. 
+[2023.01.09-13.55.18:903][157]LogMaterial: Display: Missing cached shadermap for Rain_Spot_Decal in PCD3D_SM5, Default, SM5 (DDC key hash: 6CA9B8199EF789AEE70D744915477F4F2A96D3F4), compiling. 
+[2023.01.09-13.55.19:038][157]LogMaterial: Display: Missing cached shadermap for Splash_Droplet_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: EFBA1125B1B429AC90C5110810217CF4F2A14EA8), compiling. 
+[2023.01.09-13.55.20:560][157]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_metal_window_divider_4x1.beam_metal_window_divider_4x1 should be resaved to improve async compilation performance.
+[2023.01.09-13.55.20:561][157]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1x2.beam_pillar_metal_1x2 should be resaved to improve async compilation performance.
+[2023.01.09-13.55.20:561][157]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1x2_tiling.beam_pillar_metal_1x2_tiling should be resaved to improve async compilation performance.
+[2023.01.09-13.55.20:562][157]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1x4.beam_pillar_metal_1x4 should be resaved to improve async compilation performance.
+[2023.01.09-13.55.20:573][157]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_shutters_4x1_a.store_front_shutters_4x1_a should be resaved to improve async compilation performance.
+[2023.01.09-13.55.20:615][157]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_a.store_front_windows_broken_4x1_a should be resaved to improve async compilation performance.
+[2023.01.09-13.55.20:629][157]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_c.sign_store_c should be resaved to improve async compilation performance.
+[2023.01.09-13.55.20:638][157]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_4x1.beam_upper_roof_trim_a_4x1 should be resaved to improve async compilation performance.
+[2023.01.09-13.55.21:364][157]LogStaticMesh: Warning: Mesh store_front_windows_broken_4x1_a is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_a.store_front_windows_broken_4x1_a.
+[2023.01.09-13.55.23:674][157]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/T_Blockout.T_Blockout
+[2023.01.09-13.55.23:685][157]Cmd: MAP LOAD FILE="../../../../../../TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/ThirdPerson/Maps/T_Blockout.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.09-13.55.23:689][157]LightingResults: New page: Lighting Build
+[2023.01.09-13.55.23:689][157]LoadErrors: New page: Loading map: T_Blockout.umap
+[2023.01.09-13.55.23:802][157]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.09-13.55.23:804][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.09-13.55.23:838][157]MapCheck: New page: Map Check
+[2023.01.09-13.55.23:838][157]LightingResults: New page: Lighting Build
+[2023.01.09-13.55.23:888][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.09-13.55.24:066][157]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
