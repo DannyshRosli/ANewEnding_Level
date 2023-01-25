@@ -41,3 +41,129 @@
 [0110/004006.121:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0110/004006.397:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0110/004006.397:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0116/112245.459:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0116/112248.005:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0116/112248.005:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.005:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.005:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.005:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.005:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.005:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.005:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.005:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.005:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.005:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.005:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.005:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.005:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.006:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.006:ERROR:entry_impl.cc(998)] Failed to save user data
+[0116/112248.006:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.006:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.006:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.006:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.016:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.016:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.016:ERROR:entry_impl.cc(998)] Failed to save user data
+[0116/112248.016:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.016:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.016:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.016:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.016:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.017:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.017:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.017:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.017:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.017:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.022:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.022:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.022:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.022:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.030:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.030:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.030:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.030:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.030:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.030:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.030:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.030:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.030:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.030:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.031:ERROR:entry_impl.cc(998)] Failed to save user data
+[0116/112248.031:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.031:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.031:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.031:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.031:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.031:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.031:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.031:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.032:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.032:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.032:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.032:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.033:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.033:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.033:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.033:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.034:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.034:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.034:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.034:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.035:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.035:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.035:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.035:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.036:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.036:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.036:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.036:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.037:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.037:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.037:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.037:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.037:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.037:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.037:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.037:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.037:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.038:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.038:ERROR:entry_impl.cc(998)] Failed to save user data
+[0116/112248.050:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.050:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.051:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.072:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.073:WARNING:storage_block-inl.h(146)] Failed data load.
+[0116/112248.074:ERROR:entry_impl.cc(998)] Failed to save user data
+[0116/112248.120:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0116/112301.393:ERROR:audio_rtp_receiver.cc(89)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0116/112301.393:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0116/112301.393:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0116/112301.393:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0116/112301.393:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0116/112301.393:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[0116/112301.393:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[0116/112301.393:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[0116/112301.393:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0116/112301.393:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0116/112301.393:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0116/112301.394:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0116/112314.664:ERROR:audio_rtp_receiver.cc(89)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0116/112314.665:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0116/112314.665:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0116/112314.665:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0116/112314.665:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0116/112314.665:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[0116/112314.665:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[0116/112314.665:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[0116/112314.665:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0116/112314.665:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0116/112314.665:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0116/112314.665:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0116/112319.802:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0116/112319.802:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0116/112320.475:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0116/112320.505:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0116/112320.535:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0116/112320.535:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0116/112625.514:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
