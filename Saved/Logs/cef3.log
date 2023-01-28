@@ -41,3 +41,107 @@
 [0110/004006.121:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0110/004006.397:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0110/004006.397:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0128/094739.465:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0128/094739.547:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.547:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.547:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.547:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.547:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.547:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.550:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.550:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.550:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.550:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.551:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.551:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.565:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.565:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.567:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.567:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.574:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.574:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.574:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.574:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.576:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.576:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.576:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.576:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.583:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.583:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.592:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.592:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.600:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.600:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.609:ERROR:entry_impl.cc(998)] Failed to save user data
+[0128/094739.618:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.618:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.618:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.618:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.620:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.620:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.632:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.632:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.674:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.674:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.786:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.786:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.787:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.787:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.789:ERROR:entry_impl.cc(998)] Failed to save user data
+[0128/094739.816:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.816:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.816:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.817:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.827:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.833:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094739.834:ERROR:entry_impl.cc(998)] Failed to save user data
+[0128/094740.057:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094740.057:WARNING:storage_block-inl.h(146)] Failed data load.
+[0128/094740.095:ERROR:entry_impl.cc(998)] Failed to save user data
+[0128/094740.103:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 27
+[0128/094740.106:ERROR:entry_impl.cc(998)] Failed to save user data
+[0128/094740.129:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 31
+[0128/094740.167:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 33
+[0128/094740.191:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 35
+[0128/094740.191:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 29
+[0128/094740.218:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 37
+[0128/094740.218:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 41
+[0128/094740.218:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 39
+[0128/094740.383:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 43
+[0128/094740.422:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 45
+[0128/094740.450:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 47
+[0128/094740.452:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 49
+[0128/094740.452:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 51
+[0128/094740.452:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 53
+[0128/094740.452:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 55
+[0128/094740.452:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 57
+[0128/094740.452:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 59
+[0128/094740.452:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 61
+[0128/094740.452:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 63
+[0128/094740.452:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 65
+[0128/094740.452:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 67
+[0128/094740.452:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 69
+[0128/094740.452:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 73
+[0128/094740.452:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 71
+[0128/094740.452:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 75
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 77
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 79
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 81
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 83
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 87
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 85
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 89
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 91
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 93
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 95
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 97
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 99
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 101
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 103
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 105
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 107
+[0128/094740.453:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 109
+[0128/094913.956:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0128/094913.958:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0128/094915.463:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0128/094915.464:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}

@@ -15922,6 +15922,6 @@ Material_Clamp_WorldGroupSettings, Material, 8, 3
 NULL, NULL, 0, 0
 #endif /*END_RESOURCE_TABLES*/
 #if 0 /*DIRECT COMPILE*/
--directcompile -format=PCD3D_SM5 -entry=Main -vs K:/My Drive/PUSAKA/A NEW ENDING/UE5/ANewEnding_Level/Saved/ShaderDebugInfo/PCD3D_SM5/M_PrototypeGrid/FLandscapeVertexFactory/FDebugViewModeVS/0/DebugViewModeVertexShader.usf -cflags=4096 -nocrashreports
+-directcompile -format=PCD3D_SM5 -entry=Main -vs E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/ShaderDebugInfo/PCD3D_SM5/M_PrototypeGrid/FLandscapeVertexFactory/FDebugViewModeVS/0/DebugViewModeVertexShader.usf -cflags=4096 -nocrashreports
 #endif /*DIRECT COMPILE*/
 //

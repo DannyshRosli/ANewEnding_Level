@@ -1,15 +1,15 @@
-2023/01/10-00:40:07.329 1874 Reusing MANIFEST E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/01/10-00:40:07.406 1874 Recovering log #4
-2023/01/10-00:40:07.407 1874 Reusing old log E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
-2023/01/10-01:28:41.477 47c8 Level-0 table #8: started
-2023/01/10-01:28:41.523 47c8 Level-0 table #8: 14262 bytes OK
-2023/01/10-01:28:41.575 47c8 Delete type=0 #4
-2023/01/10-01:28:41.575 47c8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2023/01/10-01:28:41.588 47c8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0\xee\x85\xf6WxB\x00\x03\x00\x00\x00\x00\x00\x00\x10@' @ 223 : 1
-2023/01/10-01:28:41.589 47c8 Compacting 1@1 + 1@2 files
-2023/01/10-01:28:41.643 47c8 Generated table #9@1: 41 keys, 2606 bytes
-2023/01/10-01:28:41.643 47c8 Compacted 1@1 + 1@2 files => 2606 bytes
-2023/01/10-01:28:41.683 47c8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/01/10-01:28:41.683 47c8 Delete type=2 #5
-2023/01/10-01:28:41.683 47c8 Delete type=2 #8
-2023/01/10-01:28:41.683 47c8 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0\xee\x85\xf6WxB\x00\x03\x00\x00\x00\x00\x00\x00\x10@' @ 223 : 1 .. (end); will stop at (end)
+2023/01/28-09:49:13.345 27cc Reusing MANIFEST E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/28-09:49:13.348 27cc Recovering log #7
+2023/01/28-09:49:13.348 27cc Reusing old log E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2023/01/28-10:09:45.212 2ed0 Level-0 table #12: started
+2023/01/28-10:09:45.291 2ed0 Level-0 table #12: 10022 bytes OK
+2023/01/28-10:09:45.319 2ed0 Delete type=0 #7
+2023/01/28-10:09:45.319 2ed0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/01/28-10:09:45.365 2ed0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xd0\x97;yYxB\x00\x03\x00\x00\x00\x00\x00\x00\x1c@' @ 363 : 1
+2023/01/28-10:09:45.366 2ed0 Compacting 1@1 + 1@2 files
+2023/01/28-10:09:45.424 2ed0 Generated table #13@1: 43 keys, 2685 bytes
+2023/01/28-10:09:45.424 2ed0 Compacted 1@1 + 1@2 files => 2685 bytes
+2023/01/28-10:09:45.468 2ed0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/28-10:09:45.469 2ed0 Delete type=2 #9
+2023/01/28-10:09:45.469 2ed0 Delete type=2 #12
+2023/01/28-10:09:45.469 2ed0 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xd0\x97;yYxB\x00\x03\x00\x00\x00\x00\x00\x00\x1c@' @ 363 : 1 .. (end); will stop at (end)
