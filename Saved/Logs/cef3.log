@@ -145,3 +145,48 @@
 [0128/094913.958:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0128/094915.463:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0128/094915.464:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0129/001545.734:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0129/001548.324:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0129/001610.370:ERROR:audio_rtp_receiver.cc(89)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0129/001610.370:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0129/001610.370:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0129/001610.370:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0129/001610.370:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0129/001610.370:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[0129/001610.370:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[0129/001610.370:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[0129/001610.370:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0129/001610.370:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0129/001610.370:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0129/001610.370:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0129/001622.681:ERROR:audio_rtp_receiver.cc(89)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0129/001622.681:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0129/001622.681:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0129/001622.681:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0129/001622.681:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0129/001622.681:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[0129/001622.681:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[0129/001622.681:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[0129/001622.681:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0129/001622.681:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0129/001622.681:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0129/001622.681:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0129/001629.229:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0129/001629.229:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0129/001629.237:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 5
+[0129/001629.281:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0129/001629.281:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0129/001630.237:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0129/001630.263:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0129/001630.271:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0129/001630.296:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0129/001630.304:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0129/001630.312:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0129/001632.753:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0129/001632.760:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0129/001632.767:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0129/001632.774:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0129/001812.341:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0129/001812.352:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0129/001812.472:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0129/001812.488:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
