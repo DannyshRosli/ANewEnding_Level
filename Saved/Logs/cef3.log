@@ -190,3 +190,19 @@
 [0129/001812.352:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0129/001812.472:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0129/001812.488:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: F:/Prototype/ANewEnding_Level/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0131/115810.392:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0131/115812.706:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0131/115812.707:ERROR:entry_impl.cc(1076)] No file for c1030000
+[0131/115812.707:WARNING:storage_block-inl.h(146)] Failed data load.
+[0131/115812.707:WARNING:storage_block-inl.h(146)] Failed data load.
+[0131/115812.707:WARNING:storage_block-inl.h(146)] Failed data load.
+[0131/115812.707:WARNING:storage_block-inl.h(146)] Failed data load.
+[0131/115812.707:ERROR:entry_impl.cc(1076)] No file for c1030002
+[0131/115812.707:WARNING:storage_block-inl.h(146)] Failed data load.
+[0131/115812.707:WARNING:storage_block-inl.h(146)] Failed data load.
+[0131/115812.707:WARNING:storage_block-inl.h(146)] Failed data load.
+[0131/115812.707:WARNING:storage_block-inl.h(146)] Failed data load.
+[0131/115812.707:ERROR:entry_impl.cc(1076)] No file for c1030004
+[0131/115812.707:WARNING:storage_block-inl.h(146)] Failed data load.
+[0131/115812.707:WARNING:storage_block-inl.h(146)] Failed data load.
+[0131/115812.707:WARNING:storage_block-inl.h(146)] Failed data load.
