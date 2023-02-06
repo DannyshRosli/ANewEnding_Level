@@ -206,3 +206,18 @@
 [0131/115812.707:WARNING:storage_block-inl.h(146)] Failed data load.
 [0131/115812.707:WARNING:storage_block-inl.h(146)] Failed data load.
 [0131/115812.707:WARNING:storage_block-inl.h(146)] Failed data load.
+[0206/201634.936:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0206/201634.952:ERROR:entry_impl.cc(1076)] No file for c10305e6
+[0206/201634.952:WARNING:storage_block-inl.h(146)] Failed data load.
+[0206/201634.952:WARNING:storage_block-inl.h(146)] Failed data load.
+[0206/201634.952:WARNING:storage_block-inl.h(146)] Failed data load.
+[0206/201634.952:WARNING:storage_block-inl.h(146)] Failed data load.
+[0206/201634.952:ERROR:entry_impl.cc(1076)] No file for c10305e2
+[0206/201634.952:WARNING:storage_block-inl.h(146)] Failed data load.
+[0206/201634.952:WARNING:storage_block-inl.h(146)] Failed data load.
+[0206/201634.952:WARNING:storage_block-inl.h(146)] Failed data load.
+[0206/201634.952:WARNING:storage_block-inl.h(146)] Failed data load.
+[0206/201634.952:ERROR:entry_impl.cc(1076)] No file for c10305e0
+[0206/201634.971:WARNING:storage_block-inl.h(146)] Failed data load.
+[0206/201634.971:WARNING:storage_block-inl.h(146)] Failed data load.
+[0206/201634.988:WARNING:storage_block-inl.h(146)] Failed data load.
