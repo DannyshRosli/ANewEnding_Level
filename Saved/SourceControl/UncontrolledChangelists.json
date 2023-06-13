@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Coat/Coat.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Coat/Coat_002.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Coat/Coat_PhysicsAsset.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Coat/Coat_Skeleton.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Cloth_Set/Coat_Skeleton.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Cloth_Set/Shirt_Skeleton.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Cloth_Set/Pants_Skeleton.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Pants/Pants_001.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Shirt/Shirt_001.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XX/TAG4M090S64LZKBDEKYBX5.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WK/V8NOEYUI2289DB23XV5KFE.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Pants/Pants.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Pants/Pants_PhysicsAsset.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/7E/DC9G4W8XRI118BVMS53ICD.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Texture/SetCloth7_Coat_BaseColor.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Texture/SetCloth7_Coat_Normal.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Texture/SetCloth7_Coat_OcclusionRoughnessMetallic.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Texture/SetCloth7_Pants_BaseColor.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Texture/SetCloth7_Pants_Normal.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Texture/SetCloth7_Pants_OcclusionRoughnessMetallic.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Texture/SetCloth7_Shirt_BaseColor.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Texture/SetCloth7_Shirt_Normal.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Texture/SetCloth7_Shirt_OcclusionRoughnessMetallic.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Shirt/Shirt.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/Cloth/Shirt/Shirt_PhysicsAsset.uasset",
+				"E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/8S/JZVN2UTSS3DSX6MD3MD6J8.uasset"
+			]
+		}
+	]
+}
