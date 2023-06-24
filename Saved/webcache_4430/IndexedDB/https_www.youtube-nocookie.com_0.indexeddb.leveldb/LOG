@@ -1,0 +1,6 @@
+2023/06/24-22:16:03.448 48c8 Creating DB E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/06/24-22:16:03.767 48c8 Reusing MANIFEST E:/TYRA/PUSAKA/GAME A NEW ENDING/UE5/LGitHub_ANewEnding/ANewEnding_Level/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/24-22:44:37.297 4d88 Level-0 table #5: started
+2023/06/24-22:44:37.377 4d88 Level-0 table #5: 1167 bytes OK
+2023/06/24-22:44:37.424 4d88 Delete type=0 #3
+2023/06/24-22:44:37.439 4d88 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
